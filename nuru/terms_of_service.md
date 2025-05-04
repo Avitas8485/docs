@@ -2,7 +2,7 @@ Nuru - Terms of Service
 Last Updated: 4th May 2025
 1. Introduction & Acceptance of Terms
 Welcome to Nuru ("Nuru," "we," "us," or "our"). Nuru operates a mobile and web-based platform designed to connect individuals and businesses seeking services ("Clients") with skilled professionals, service providers, and artisans ("Freelancers") primarily within Tanzania and the broader East African region (collectively, the "Service" or "Platform").
-These Terms of Service ("Terms") govern your access to and use of the Nuru Platform. Our Privacy Policy, available at https://github.com/Avitas8485/docs/blob/main/dawna/privacy_policy.md, is incorporated by reference into these Terms and explains how we collect and use your information.
+These Terms of Service ("Terms") govern your access to and use of the Nuru Platform. Our Privacy Policy, available at https://github.com/Avitas8485/docs/blob/main/nuru/privacy_policy.md, is incorporated by reference into these Terms and explains how we collect and use your information.
 BY CREATING AN ACCOUNT, ACCESSING, OR USING THE NURU PLATFORM IN ANY WAY, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS AND OUR PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS OR THE PRIVACY POLICY, YOU MUST NOT ACCESS OR USE THE PLATFORM.
 We reserve the right to modify these Terms at any time. We will notify you of significant changes (e.g., via in-app notification or email). Your continued use of the Platform after such changes constitutes your acceptance of the revised Terms.
 2. Eligibility
