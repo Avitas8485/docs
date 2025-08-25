@@ -196,5 +196,5 @@ Nuru reserves the right, at your expense, to assume the exclusive defense and co
 
 If you have any questions about these Terms of Service, please contact us at:
 
-**Email:** athalnir713@gmail.com  
-**Website/Company:** Nuru
+**Email:** support@dawnsolutions.net 
+**Website/Company:** Dawn Global LLC
